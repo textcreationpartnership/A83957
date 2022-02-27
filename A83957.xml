@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands division, and Irelands distraction. The feares and disasters of the one, the teares and distresses of the other; being the just cause and sad occasion of both kingdomes deploration. Containing a declaration, or remonstrance of the present state and condition of this realme of England, and that of Ireland. Written by one, who in unfained love to his native countrey, and entire affection to the neighbour-nation, would sacrifice his life for the peace of either.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83957</idno>
+            <idno type="STC">Wing E2961</idno>
+            <idno type="STC">Thomason E124_9</idno>
+            <idno type="STC">ESTC R4856</idno>
+            <idno type="EEBO-CITATION">99872738</idno>
+            <idno type="PROQUEST">99872738</idno>
+            <idno type="VID">125184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125184)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands division, and Irelands distraction. The feares and disasters of the one, the teares and distresses of the other; being the just cause and sad occasion of both kingdomes deploration. Containing a declaration, or remonstrance of the present state and condition of this realme of England, and that of Ireland. Written by one, who in unfained love to his native countrey, and entire affection to the neighbour-nation, would sacrifice his life for the peace of either.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octo: 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125184:1" rendition="simple:additions"/>
+            <p>Englands Diviſion, <hi>AND</hi> Irelands Diſtraction.</p>
+            <p>The feares and diſaſters of the one, The teares and diſtreſſes of the other; Being the juſt cauſe and ſad occaſion of both Kingdomes Deploration.</p>
+            <p>
+               <hi>CONTAINING</hi> A <hi>Declaration,</hi> Or <hi>Remonstrance</hi> of the preſent ſtate and condition of this Realme of ENGLAND, and that of IRELAND.</p>
+            <p>Written by one, who in unfained love to his Native Countrey, and entire affection to the Neighbour-Nation, would ſacrifice his life for the peace of either.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Bates.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:125184:2"/>
+            <pb n="3" facs="tcp:125184:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>device consisting of an open book with a sword, scepter, and surrounding motto</figDesc>
+               </figure>
+            </head>
+            <head>Englands Diviſion, <hi>AND</hi> Irelands Diſtraction.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">V</seg>Erſamur in prelio,</hi> we are in a ſot-battell. Death is already marched into the field, and a univerſall deſolation, like a Meteor, hangs over our heads. Such are the growing miſ<g ref="char:EOLhyphen"/>chiefes of the two Kingdomes of England and Ireland, that if theſe deſtructive warres continue (without Gods great mercy) all in the common Fate will inevitably be invol<g ref="char:EOLhyphen"/>ved. Ireland is ſufficiently dyed in skarlet, and England lackes but a graine of it: Our ſences of ſeeing and hearing are taken up with Armes and Amunition, Powder and Shot, Drums and Trumpets, Pikes and Muskets, skirmiſhes and battels, fights and overthrowes. Each houre is an Herault of homicides, each day a meſſenger of miſchiefes, each weeke a Diurnall of dan<g ref="char:EOLhyphen"/>gers,
+<pb n="4" facs="tcp:125184:3"/>
+each moneth a Motto of miſery, this whole yeare but march, and no language now amongſt us but war. In being vi<g ref="char:EOLhyphen"/>ctors we are victed; in Overcomming we are overcome, and in winning lives we loſe lives. <hi>In bellis civilibus omnia ſunt miſera, &amp; nihil miſerius quam ipſa victoria.</hi> It was the ſaying of <hi>Cicero</hi> the Roman Oratour, <hi>Omnis pax bello civils praſtantior,</hi> any peace is better then a civill war. In civill wars (indeed the moſt unci<g ref="char:EOLhyphen"/>vill and barbarous of all other) the Father ſights againſt the Sonne, and the Sonne againſt the Father, Brother againſt Brother, Kinſman againſt Kinſman; Theſe maſſacres are moſt inhumane and unnaturall, wherein all bonds of affinity, conſanguinity and humanity are violently broken and diſſolved.</p>
+            <p>Thus in the civill wars between the two Houſes of <hi>Saul</hi> and <hi>David,</hi> between Iſrael and Judah, and of later times be<g ref="char:EOLhyphen"/>twixt the white Roſe and the red the two Houſes of Yorke and Lancaſter, the Kings owne friends and loyall Subjects have been conſtrained to march into the field againſt him, and have there dyed in that fight. In the Raigne of <hi>Edward</hi> the fourth, there were no leſſe then nine civill and bloudy battels fought in En<g ref="char:EOLhyphen"/>gland, whereby moſt of the Nobility and Gentry of the King<g ref="char:EOLhyphen"/>dome either fell by the ſword of the ſouldier in the field, or by the Axe of the Executioner on the ſcaffold. Of all war the civill war is the worſt: And if ever it was bad, it is moſt malignant at this time; For it is a fatall war in the very bowels of the Nation, with our owne Brethren and Countrey-men in the fleſh, and will be moſt deſtructive to the whole Kingdome. It hath been a long time begun, and end when it will end, it will be bitterneſſe in the latter end, as <hi>Abner</hi> once ſaid to <hi>Ioah,</hi> and if it longer con<g ref="char:EOLhyphen"/>tinue, as it doth at this preſent, without a pacification, it will bring repentance enough with it when it is too late, both to the vanquiſhed and to the victor. What horrid ſlaughters of man<g ref="char:EOLhyphen"/>kinde
+<pb n="5" facs="tcp:125184:3"/>
+doc accompany this kind of bloudy war, the Hiſtory of theſe times doth ſufficiently reſtifie. The loſſe of goods, eſtates, liberties, lands and lives, this diſmall ſhower of war raines downe upon the ſonnes of men to their ruine and confuſion.</p>
+            <p>Manifold are the ſad and blacke calamities which wait upon this illegall and unnaturall war: It makes the breaches wider, and the wounds deeper. Theſe water-breaches that have been ſo long broken in upon us (if they be not ſpeedily ſtopped, but gi<g ref="char:EOLhyphen"/>ven way unto) will lamentably prove an inundation and deluge of deſtruction to the whole Kingdome. It expoſes a people to the fury of a forraigne Nation, that whileſt we are together by the eares amongſt our ſelves, our adverſaries have the advantage and opportunity to come upon our backs; ſo that beſides being liable to the pitty of onr friends, the deriſion and malignity of our foes, in this reſpect we may ſay as <hi>David</hi> ſaid in another caſe unto <hi>Gad,</hi> we are in a great ſtraight. <hi>Bellum Dei Flagellum,</hi> War is the ſcourge of God; It is one of the Arrowes which the Almighty hath in the quiver of his Juſtice which he ſhoots at a Nation for the iniquity of the people. And what miſchiefes doe not accompany war? It never comes ſingle, but is attended upon by all the imaginable evils that are in the world, which like thoſe Eumenides, the hags and ſuries of Hell doe torture men to their perpetuall ruine. <hi>Nulla ſalus bello,</hi> there is no ſafety in war. When the Dye of war is once throwne, it is a great ha<g ref="char:EOLhyphen"/>zard, and what the iſſue and chance of it is, is moſt uncertaine. The ſword regards neither high nor low, noble nor ignoble, rich nor poore, the King in his Throne, nor the Beggar in the ſtreet.</p>
+            <p>When <hi>Ahab</hi> warred at Ramoth Gilead, <hi>a certaine man drew a bow at adventure, and ſmote the King of Iſrael as he was in his Cha<g ref="char:EOLhyphen"/>riot.</hi> Ye may reade the Story at your leiſure in the 1 <hi>Kin.</hi> 22. 34. where ye may take notice of theſe remarkable circumſtances; firſt of <hi>a certaine man,</hi> ſome obſcure, or ignote fellow, God
+<pb n="6" facs="tcp:125184:4"/>
+knowes who or what he was, it ſeemes not worth the naming only <hi>a certaine man drew a bow at adventure,</hi> light where it will light, he ſhoots at randome, and aymes at no man, but ſmites <hi>the King of Iſrael:</hi> Where note, that the baſeſt coward or villaine in the Army of the Aſſyrians peradventure ſmites the nobleſt. From which premiſſes, the inſerence that I deduct is this, that in war the <hi>Lords anointed,</hi> who is <hi>Pater Patrioe,</hi> the Father of his Countrey, and <hi>is better then ten thouſand,</hi> may fall as ſoone as the baſeſt what ſoever, to the great hazard of the State, and to the grievous crime of thoſe that ſhall expoſe His Majeſty to that perill. The conſideration hereof made the people of King <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſay, when <hi>Iſhabenob</hi> the Gyant in a battell had like to have ſlaine <hi>David,</hi> but that ſome of his Wortnies reſcued him from that danger, <hi>Thou ſhall no more goe forth with us to bat tell, lest thou quench the light of Iſrael,</hi> 2 Sam. 21. 17. <hi>For thou art better then ten thouſand of us,</hi> 2 Sam. 18. 3. Nay not onely the people of the King, but the Prophet of the Lord, the King of Kings, ſpeaking of a King, and none of the beſt neither, makes this one maine part of his ſorrow and lamentation, <hi>The breath of our moſtrils the Lords anointed, under whoſe ſhadow we had rest, was taken in their pit,</hi> by the Babylonians in their wars againſt Ieruſalem. In the time of civill (or rather uncivill) war, not only the King, but the whole Kingdome is in danger. If I could reckon up all the miſchieſes and miſeries that ever were, or will be among men in the world, they might all ſufficiently be expreſſed in this one word <hi>War. Si bellum dixeris, omnia dixeris.</hi> The famine and peſtilence (two ſore and ſevere judgements of Almighty God) are not comparable to this of war. God himſelfe (the Lord of Hoſts) put an end to <hi>Sauls</hi> life and Kingdome, by the wars of the Philiſtims upon <hi>Saul.</hi> He ſwept away with the beeſome of this deſtruction the houſe of <hi>Abab,</hi> by the wars of <hi>Iehu</hi> upon <hi>Ahab.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:125184:4"/>
+The City of Samaria was brought to that calamity, that wo<g ref="char:EOLhyphen"/>men did eat their children by courſe, to ſatisfie their hungry ſoules; and all this miſery befell by the wars of the Syrians upon Samaria. The moſt famous City of Troy was ruined and tur<g ref="char:EOLhyphen"/>ned into a tilled field by the wars of the Greekes. The Canaa<g ref="char:EOLhyphen"/>nites, the Hittites, the Amorites, the Hivites and Pereſites, the Gigaſites, great and mighty Nations, who had <hi>walled Cities, and Chariots of yron, and the ſons of Anack,</hi> mighty men among them, were all ſpewed out of their land by the wars of the Iſraelites upon them, <hi>Ioſh.</hi> 12. I could produce a cloud of witneſſes out of divine and humane Authours, to confirme this blacke cloud, which at this time hangs over our heads. To inſtance one for all, That mirrour of the World, the Metropolis and chiefe of all Cities, was brought to that extremity, that the beautifull wo<g ref="char:EOLhyphen"/>men <hi>(the ſole of whoſe foot might not touch the earth)</hi> ſuch was their nicety and tenderneſſe, did make their own bowels the ſepulcher for their children of a ſpan long, the fruits of their own bodies; and all this was by the wars of <hi>Nebuchadnezzar</hi> upon Ieruſalem, and was afterwards reduced to as great miſery by the wars of the Romans under the conduct of <hi>Titus</hi> and <hi>Veſpaſian.</hi> Theſe are the miſerable effects and wofull conſequents of war, which goe along inſeparably with it. Bleeding Ireland hath ſufficiently ta<g ref="char:EOLhyphen"/>ſted of this bitter cup: What horrid villanies and outrages have bin there committed by the barbarous Romiſh Rebels, on men, women and children, rich, poore, Prieſt and people, without re<g ref="char:EOLhyphen"/>ſpect or regard of age or ſexe, of calling or profeſſion, it is need<g ref="char:EOLhyphen"/>leſſe at this time to rehearſe. Lamenting England is now ſome<g ref="char:EOLhyphen"/>what near the like wofull condition. Difference in opinion hath bred difference in affection, and both theſe have wrought civill contention. Our long peace hath bred proſperity, proſperity hath brought forth plenty, plenty pride, pride diſcord, which hath deſtroyed our peace. That which God denounced againſt
+<pb n="8" facs="tcp:125184:5"/>
+his people, we may juſtly fe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re will befall us: <hi>I have taken away my peace from this people,</hi> Jer. 16. 5. It hath been a great b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſing heretofore, that in our time there hath bin <hi>no going out, nor com<g ref="char:EOLhyphen"/>ming in, nor complaining in our ſtreets,</hi> through forraine or dome<g ref="char:EOLhyphen"/>ſticall war. <hi>Happy are the people that be in ſuch a caſe</hi> Pſal. 144. 15. And I pray God grant this happineſſe unto us his people. It was the happines of <hi>Salomons</hi> time, that he was a man of peace, and God did <hi>give h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m reſt from all his e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emies round about,</hi> 1 Chr. 22. 9. And it was a great bleſſing upon <hi>Ieh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhaphat</hi> and his King<g ref="char:EOLhyphen"/>dome, that the feare of God fell upon all the Kingdomes that were round about Judah, ſo that they made no war againſt <hi>Ieho<g ref="char:EOLhyphen"/>ſhaphat,</hi> 2 Chron. 17 10. <hi>Quid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am niſi vota ſuper<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt?</hi> What now remaines, but that we pray for peace to the God of peace, that there may be no comming into our land by invaſion, nor any crying in our ſtreets by the miſeries of civill war in the bowels of our Nation. In the midſt of our feares and jealouſies, let us be ſo wiſe, not to be enemies to our owne peace; but let it be our care and endeavour to prevent war, and preſerve peace, that there may be no offenſive hoſtility amongſt us. Let us not ceaſe to importune the King of Kings, the ſupreameſt Majeſty of Heaven and Earth, that the waters of the Kings diſplea<g ref="char:EOLhyphen"/>ſure may be abated, that His Majeſty and His Parliament may have a happy meeting and concurrence together; that both be<g ref="char:EOLhyphen"/>ing united as a peeced Arrow (now made the ſtronger) may fly againſt the common Enemy more effectually; that peace may be within our wals, and plenty within our dwellings, and that our gracious Soveraigne may with all poſſible ſpeed returne to His long deſerted Palace at White-hall, with the Olive branch of peace in his mouth, to the glory of God, the honour of His Ma<g ref="char:EOLhyphen"/>jeſty, the content of his Parliament, and comfort of his peo<g ref="char:EOLhyphen"/>ple.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
